@@ -3,6 +3,8 @@
 A blog platform built with microservices architecture, designed for deployment on AWS EKS.
 test line
 
+
+assdfghj
 ## Architecture
 
 - **Auth Service** (port 3001) — User registration, login, JWT-based authentication
